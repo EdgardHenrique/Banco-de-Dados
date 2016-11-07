@@ -1,0 +1,13 @@
+html{
+    background-color: cyan;
+    background-image: url(img/14018049503400287.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-image: url(img/Shark.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 500px 400px;
+}
